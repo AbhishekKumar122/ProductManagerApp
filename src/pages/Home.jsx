@@ -38,6 +38,7 @@ const Home = () => {
           >
             Logout
           </button>
+          
         </div>
         <AddProduct onAdd={addProduct} />
         <div className="my-4">
