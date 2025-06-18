@@ -41,6 +41,7 @@ const Home = () => {
           </button>
           
         </div>
+        
         <AddProduct onAdd={addProduct} />
         <div className="my-4">
           <SearchBar onSearch={setQuery} />
